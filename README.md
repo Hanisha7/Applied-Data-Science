@@ -4,6 +4,8 @@ The project system aims to accurately predict flight delays with the help of IBM
 The purpose of this project is to assist airlines, passengers, and other stakeholders in making informed decisions based on the predicted flight delays. By leveraging historical flight data, weather conditions, and other relevant factors, the system can generate predictions that help identify potential delays in advance.
 The project's implementation with IBM Cloud allows for the utilization of various services, which provides a collaborative environment for data analysis and model development. Additionally, the integration with Flask enables the creation of a web application that allows users to input flight details and receive delay predictions in real-time.
 
+The link to the video demonstrating are project is: https://drive.google.com/file/d/1pzZwCDLZaBjv3mIuAw1B6-yn7sINo_3L/view?usp=sharing
+
 ![image](https://github.com/SanyaGarg31/Flight-Delay-Prediction-SmartBridge-Externship/assets/95563058/9302e256-274c-4196-b357-943cf13fa309)
 
 ![image](https://github.com/SanyaGarg31/Flight-Delay-Prediction-SmartBridge-Externship/assets/95563058/cc478380-9328-47f7-b0fe-2458b7a03280)
